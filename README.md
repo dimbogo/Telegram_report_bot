@@ -1,2 +1,4 @@
 # Telegram_bot
-An example of automated distribution of reports via telegram bot
+An example of automated distribution of reports via telegram bot\n
+\n
+It comes with 2 versions - for Airflow and Gitlab
